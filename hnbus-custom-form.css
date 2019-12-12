@@ -1,0 +1,99 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+
+ Title : HN Technology for Business
+ Author : SFP
+ URL : http://wufoo.com
+
+ Last Updated : 12 December 2019
+
+- - - - - - - - - - - - - - - - - - - - - */
+#container {
+	font-family: 'Avenir', 'Avenir LT W01_65 Medium1475532', Arial, Helvetica, sans-serif!important;
+    font-size: 18px!important;
+}
+
+.wufoo .hnbus_custom_form input.text, input.search, textarea.textarea {
+	border-top: 1px solid rgb(0,91,156, .4)!important;
+    border-left: 1px solid rgb(0,91,156, .4)!important;
+    border-right: 1px solid rgb(0,91,156, .4)!important;
+    border-bottom: 1px solid rgb(0,91,156, .4)!important;
+    height: 30px!important;
+    width: 99%!important;
+}
+
+.wufoo input.text, .wufoo textarea.textarea{
+	border-top: 1px solid rgb(0,91,156, .4)!important;
+    border-left: 1px solid rgb(0,91,156, .4)!important;
+    border-right: 1px solid rgb(0,91,156, .4)!important;
+    border-bottom: 1px solid rgb(0,91,156, .4)!important;
+    height: 30px!important;
+    width: 99%!important;
+}
+
+.wufoo select.select {
+	border-top: 1px solid rgb(0,91,156, .4)!important;
+    border-left: 1px solid rgb(0,91,156, .4)!important;
+    border-right: 1px solid rgb(0,91,156, .4)!important;
+    border-bottom: 1px solid rgb(0,91,156, .4)!important;
+    height: 30px!important;
+}
+
+.wufoo label.desc {
+    font-size: 18px!important;
+    font-weight: 400!important;
+    line-height: 2!important;
+}
+
+.hnbus_custom_form span.req {
+    color: #FC4347!important;
+    font-weight: 400!important;
+}
+
+/* BUTTONS */
+form li.buttons input {
+    padding: 10px 40px!important;
+    border-radius: 6px!important;
+    background-color: #005B9C!important;
+    border: 0!important;
+    color: #FFFFFF!important;
+    font-size: 18px!important;
+    font-weight: 300!important;
+}
+
+.buttons input {
+	padding: 10px 40px!important;
+    border-radius: 6px!important;
+    background-color: #005B9C!important;
+    border: 0!important;
+    color: #FFFFFF!important;
+    font-size: 18px!important;
+    font-weight: 300!important;
+}
+
+/* ERROR */
+form .hnbus_custom_form p.error {
+    padding-top: 15px!important;
+    font-weight: 500;
+    font-size: 14px;
+    color: #FC4347!important;
+}
+
+form li.error.hnbus_custom_form .desc {
+    color: #FC4347!important;
+    font-weight: 400!important;
+    line-height: 2!important;
+}
+
+#errorMsgLbl {
+    color: #FC4347!important;
+    font-size: 18px!important;
+    font-weight: 200!important;
+}
+
+#errorMsg {
+    font-weight: 500!important;
+}
+
+#errorMsg b {
+    border-radius: 2px!important;
+}

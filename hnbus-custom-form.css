@@ -13,7 +13,7 @@
 	font-size: 18px!important;
 }
 
-input#saveForm {
+#saveForm, input.btTxt {
 	padding: 20px!important;
 }
 

@@ -7,10 +7,14 @@
  Last Updated : 12 December 2019
 
 - - - - - - - - - - - - - - - - - - - - - */
-#container, html.embed {
-    background: none!important;
-    font-family: 'Avenir', 'Avenir LT W01_65 Medium1475532', Arial, Helvetica, sans-serif!important;
-    font-size: 18px!important;
+.embed body {
+	background: none!important;
+	font-family: 'Avenir', 'Avenir LT W01_65 Medium1475532', Arial, Helvetica, sans-serif!important;
+	font-size: 18px!important;
+}
+
+input#saveForm {
+	padding: 20px!important;
 }
 
 /*ERROR*/
@@ -31,4 +35,8 @@
 
 #errorMsg b {
     border-radius: 2px!important;
+}
+
+input#saveForm {
+	padding: 20px!important;
 }
